@@ -1,21 +1,9 @@
-## 📸 Project Screenshots
-
-### 🖥️ Backend (Admin & API)
-| User Management | Site Administration | Course List API |
+### 🖥️ Backend Screenshots
+| User Management | Admin Panel | API Courses |
 |:---:|:---:|:---:|
-| ![Users](./Screenshots/backend/accounts-user.PNG) | ![Admin](./Screenshots/backend/admin.PNG) | ![Course API](./Screenshots/backend/api-courses.PNG) |
+| ![Users](./Screenshots/backend/accounts-user.PNG) | ![Admin](./Screenshots/backend/admin.PNG) | ![API](./Screenshots/backend/api-courses.PNG) |
 
-| Lesson List API | Auth Group | Course Management |
-|:---:|:---:|:---:|
-| ![Lesson API](./Screenshots/backend/api-lessons.PNG) | ![Auth Group](./Screenshots/backend/auth-group.PNG) | ![Courses](./Screenshots/backend/courses.PNG) |
-
-| Enrollments | Lesson List | Lesson Progress |
-|:---:|:---:|:---:|
-| ![Enrollments](./Screenshots/backend/courses-enrollment.PNG) | ![Lessons](./Screenshots/backend/lesson.PNG) | ![Progress](./Screenshots/backend/lessonprogress.PNG) |
-
----
-
-### 🎨 Frontend (UI/UX)
+### 🎨 Frontend Screenshots
 | Dashboard View | Course Learning Interface |
 |:---:|:---:|
 | ![Dashboard](./Screenshots/frontend/image_8c5724.PNG) | ![Detail](./Screenshots/frontend/course-1.PNG) |
